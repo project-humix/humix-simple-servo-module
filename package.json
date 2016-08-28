@@ -1,0 +1,15 @@
+{
+  "name": "humix-simple-servo-module",
+  "version": "1.0.0",
+  "description": "A simple humix-sense module which is used to control a servo motor attaching to raspberry pi directly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "humix-sense": "^1.0.1",
+    "pigpio": "^0.3.4"
+  }
+}
